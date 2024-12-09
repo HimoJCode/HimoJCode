@@ -1,4 +1,4 @@
-# 👋 Hi, I'm HimoJCode!
+# 👋 Hi, I'm Jerameel!
 - 🔭 I’m an IT student passionate about building innovative applications and systems.
 - 🌱 I’m currently learning AI, front-end and back-end development, and database design.
 - 🐾 When I'm not coding, I enjoy traveling, gaming, and spending time with my family, friends, cat and dogs.
